@@ -21,10 +21,10 @@ V ostatních odvětvích došlo vždy minimálně k jednomu zakolísání v prů
 
 2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
 Data jsou uložena v souboru Podhrazska_otazka_2.sql.
-2006	Chléb konzumní kmínový	- 	1261.93 Kg
-2018	Chléb konzumní kmínový	- 	1319.32 Kg
-2006	Mléko polotučné pasterované	-	1408.75 Litru
-2018	Mléko polotučné pasterované	- 	1613.53 Litru
+1. 2006	Chléb konzumní kmínový	- 	1261.93 Kg;
+2. 2018	Chléb konzumní kmínový	- 	1319.32 Kg;
+3. 2006	Mléko polotučné pasterované	-	1408.75 Litru;
+4. 2018	Mléko polotučné pasterované	- 	1613.53 Litru
 
 3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
 Data jsou uložena v souboru Podhrazska_otazka_3.sql.
@@ -45,18 +45,18 @@ Z dat lze vyčíst, že cukr krystalový měl největší deflaci pro dané roky
 4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?
 Data jsou uložena v souboru Podhrazska_otazka_4.sql.
 V žádném roce (2007-2018) nedošlo ke zvýšení o více než 10%.  
-2007	6.74	6.79	-0.05	NO
-2008	6.19	8.06	-1.87	NO
-2009	-6.41	3.25	-9.66	NO
-2010	1.95	2.00	-0.05	NO
-2011	3.35	2.27	1.08	NO
-2012	6.72	3.14	3.58	NO
-2013	5.10	-1.56	6.66	NO
-2014	0.74	2.54	-1.80	NO
-2015	-0.54	2.42	-2.96	NO
-2016	-1.21	3.66	-4.87	NO
-2017	9.63	6.40	3.23	NO
-2018	2.16	7.55	-5.39	NO
+1. 2007	6.74	6.79	-0.05	NO
+2. 2008	6.19	8.06	-1.87	NO
+3. 2009	-6.41	3.25	-9.66	NO
+4. 2010	1.95	2.00	-0.05	NO
+5. 2011	3.35	2.27	1.08	NO
+6. 2012	6.72	3.14	3.58	NO
+7. 2013	5.10	-1.56	6.66	NO
+8. 2014	0.74	2.54	-1.80	NO
+9. 2015	-0.54	2.42	-2.96	NO
+10. 2016	-1.21	3.66	-4.87	NO
+11. 2017	9.63	6.40	3.23	NO
+12. 2018	2.16	7.55	-5.39	NO
 
 5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?
 Data jsou uložena v souboru Podhrazska_otazka_5.sql.
